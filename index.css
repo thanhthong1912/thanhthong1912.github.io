@@ -1,0 +1,12 @@
+header{background-color:#7ed6df;}
+section{background-color:#ff7979}
+table{background-color:#535c68;}
+caption{color:#30336b;}
+footer{background-color:gray;}
+
+div{background-color:#eb4d4b;
+width:300px;
+border:2px solid black;
+  padding:0px 10px;
+  marging: 10px;
+}
